@@ -1,0 +1,8 @@
+https://cloegallart@bitbucket.org/cloegallart/git-exercici
+
+
+git clone https://cloegallart@bitbucket.org/cloegallart/git-exercici.git
+
+
+ Commmit Cambios: .gitignore created online with Bitbucket
+
